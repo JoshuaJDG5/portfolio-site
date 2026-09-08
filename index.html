@@ -1,0 +1,505 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Joshua Gorton — Game Designer / Programmer</title>
+  <meta name="description" content="Portfolio of Joshua Gorton — programmer and game designer. Final-year BSc Games Design & Development (Programming) student at the University of Greenwich." />
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#featured">Skip to content</a>
+
+  <!-- ============================ HEADER ============================ -->
+  <header class="site-header">
+    <nav class="nav" aria-label="Primary">
+      <div class="nav__inner">
+        <a class="nav__brand" href="#top">
+          <span class="nav__brand-mark">JG</span>
+          <span class="nav__brand-name">Joshua Gorton</span>
+        </a>
+
+        <button
+          class="nav__toggle"
+          id="nav-toggle"
+          aria-label="Toggle navigation menu"
+          aria-controls="nav-links"
+          aria-expanded="false"
+        >
+          <span class="nav__toggle-bar"></span>
+          <span class="nav__toggle-bar"></span>
+          <span class="nav__toggle-bar"></span>
+        </button>
+
+        <ul class="nav__links" id="nav-links">
+          <li><a href="#portfolio">Portfolio</a></li>
+          <li><a href="#about">About</a></li>
+          <li><a href="#contact">Contact</a></li>
+          <li><a class="nav__cta" href="mailto:joshua@familygorton.com?subject=Portfolio%20enquiry">Hire me</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <div class="intro" id="top">
+      <div class="intro__inner">
+        <div class="intro__avatar">
+          <img src="images/profile.jpg" alt="Joshua Gorton" data-ph="PROFILE" width="160" height="160" />
+        </div>
+        <h1 class="intro__name">Joshua Gorton</h1>
+        <p class="intro__role">Game&nbsp;Designer&nbsp;/&nbsp;Programmer</p>
+
+        <p class="intro__about">
+          I am a UK-based gameplay programmer and recent graduate from the University of Greenwich focused on Unity, Unreal Engine and C# scripting. As Lead Programmer of a team of four for the Steam game <em>Whoever Left the Light On</em>, I thrive in collaborative environments and love solving problems and giving players a great gameplay experience.
+        </p>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- ========================== HERO / FEATURED ========================== -->
+    <section class="hero" id="featured" aria-labelledby="featured-title">
+      <div class="hero__inner">
+        <!-- In-game main-menu panel -->
+        <div class="hero__panel">
+          <img
+            class="hero__bg"
+            src="images/wltlo-menu.png"
+            alt="Whoever Left the Light On — a single spotlit chair beneath a hanging lamp in a dark room"
+            data-ph="WHOEVER LEFT THE LIGHT ON"
+            width="1400" height="700"
+          />
+          <div class="hero__scrim" aria-hidden="true"></div>
+
+          <div class="hero__menu">
+            <p class="hero__eyebrow">
+              Featured Project
+              <span class="hero__eyebrow-sep" aria-hidden="true">•</span>
+              <span class="hero__eyebrow-role">Lead Programmer</span>
+            </p>
+            <h2 id="featured-title" class="sr-only">Whoever Left the Light On</h2>
+
+            <div class="menu" role="group" aria-label="Game menu">
+              <a class="menu-btn menu-btn--play" href="#" aria-label="Open Steam page — releasing 30 September 2026">
+                <span class="menu-btn__label"><span class="menu-btn__icon" aria-hidden="true">▶</span> Steam page</span>
+                <span class="menu-btn__note">Releasing 30 Sep 2026</span>
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <!-- Project meta: description, release info, my role -->
+        <div class="hero__meta">
+          <p class="hero__desc">
+            You don't know who you are. You don't know where you are. You don't know when you are.
+            A POV surreal puzzle game where dream logic replaces the rules you know…
+            Explore a shifting stylised world, outwit its impossible puzzles, and piece together
+            who you were before you woke here.
+          </p>
+
+          <ul class="hero__facts" aria-label="Project facts">
+            <li><span class="hero__fact-key">Release</span><span class="hero__fact-val">30 Sep 2026</span></li>
+            <li><span class="hero__fact-key">Developer &amp; Publisher</span><span class="hero__fact-val">Micro Studio</span></li>
+          </ul>
+
+          <p class="hero__role">
+            <span class="hero__role-key">My role</span>
+            <span class="hero__role-body">
+              <strong>Lead Programmer</strong>, leading a team of 4 other programmers within the
+              wider 12-person studio. Designed core systems, wrote documentation, and managed
+              team organisation.
+            </span>
+          </p>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- Build report — kept as a hidden template, injected into the WLTLO card's lightbox -->
+    <template id="tpl-wltlo-extras">
+      <aside class="report" aria-label="Build report">
+        <div class="report__bar" aria-hidden="true">
+          <span class="report__dot"></span><span class="report__dot"></span><span class="report__dot"></span>
+          <span class="report__bar-label">build-report — ship.log</span>
+        </div>
+
+        <div class="report__body">
+            <p class="report__cmd"><span class="report__prompt">~/micro-studio $</span> ./ship --target steam --year 2026</p>
+            <p class="report__game">Whoever Left the Light On</p>
+            <p class="report__sub">Micro Studio · University of Greenwich · Summer 2026</p>
+
+            <div class="report__group">
+              <h3 class="report__head">[ Pipeline ]</h3>
+              <ul class="report__list">
+                <li class="row"><span class="tag tag--ok">[ OK ]</span><span class="row__label">Commits pushed</span><span class="row__val">872</span></li>
+                <li class="row"><span class="tag tag--ok">[ OK ]</span><span class="row__label">Lines of code written</span><span class="row__val">16,691</span></li>
+                <li class="row"><span class="tag tag--ok">[ OK ]</span><span class="row__label">Pull requests merged</span><span class="row__val">251</span></li>
+                <li class="row"><span class="tag tag--ok">[ OK ]</span><span class="row__label">Bugs filed and closed</span><span class="row__val">53</span></li>
+                <li class="row"><span class="tag tag--warn">[ WARN ]</span><span class="row__label">One inverted boolean</span><span class="row__val">6 hrs</span></li>
+                <li class="row row--note"><span class="row__note"># six hours. one character. we do not wish to discuss it.</span></li>
+              </ul>
+            </div>
+
+            <div class="report__group">
+              <h3 class="report__head">[ Assets ]</h3>
+              <ul class="report__list">
+                <li class="row"><span class="tag tag--ok">[ OK ]</span><span class="row__label">Custom 3D models built</span><span class="row__val">131</span></li>
+                <li class="row"><span class="tag tag--ok">[ OK ]</span><span class="row__label">SFX recorded from scratch</span><span class="row__val">63</span></li>
+                <li class="row"><span class="tag tag--ok">[ OK ]</span><span class="row__label">Original music composed</span><span class="row__val">12 min</span></li>
+                <li class="row"><span class="tag tag--ok">[ OK ]</span><span class="row__label">Voice-over · 3 actors</span><span class="row__val">700+ words</span></li>
+              </ul>
+            </div>
+
+            <div class="report__group">
+              <h3 class="report__head">[ Production ]</h3>
+              <ul class="report__list">
+                <li class="row"><span class="tag tag--ok">[ OK ]</span><span class="row__label">Beloved features cut from scope</span><span class="row__val">34</span></li>
+                <li class="row"><span class="tag tag--ok">[ OK ]</span><span class="row__label">Hours of playtesting suffered</span><span class="row__val">500+</span></li>
+                <li class="row"><span class="tag tag--warn">[ WARN ]</span><span class="row__label">Cans of Monster Energy consumed</span><span class="row__val">100+</span></li>
+              </ul>
+            </div>
+
+            <div class="report__success">
+              <strong>Build succeeded</strong>
+              <span>12 weeks · 12 students · 1 shipped demo</span>
+            </div>
+
+            <div class="report__team">
+              <p class="report__team-label"># the twelve people who built it</p>
+              <p class="report__names">
+                Patryk Parzelski · Shannon Grant · Kasper Crittenden-Wedge · Ahmet Nalbant ·
+                D&#39;Arcy Everitt · Davide Motta · Sebastian Pavaz Martinez · Jamie Lillington ·
+                <span class="report__me">Joshua Gorton</span> · Francesco D&#39;Ecclesiis · Firat Yildiz · Lewis Bodman
+              </p>
+            </div>
+        </div>
+      </aside>
+    </template>
+
+    <!-- ============================ PORTFOLIO ============================ -->
+    <section class="portfolio" id="portfolio" aria-labelledby="portfolio-title">
+      <div class="portfolio__inner">
+        <header class="section-head">
+          <p class="section-head__eyebrow">Selected Work</p>
+          <h2 id="portfolio-title" class="section-head__title">Portfolio</h2>
+          <p class="section-head__lead">Games and technical showcases across programming, game &amp; level design, 3D art and pixel art. Open any card to flick through images and see what I did on it.</p>
+        </header>
+
+        <!-- ============ GAMES ============ -->
+        <header class="subsection-head">
+          <h3 class="subsection-head__title"><span class="subsection-head__mark" aria-hidden="true">01</span>Games</h3>
+          <p class="subsection-head__lead">Shipped and in-progress games.</p>
+        </header>
+
+        <div class="grid">
+          <!-- 1 — Whoever Left the Light On (featured / build report inside) -->
+          <article class="card card--featured"
+            data-images="images/wltlo-menu.png|images/wltlo-steam-page.png"
+            data-alts="Whoever Left the Light On — key art|Steam store page"
+            data-involve="Lead Programmer — led a team of 4 programmers within the wider 12-person studio, designed core systems, wrote documentation, and managed team organisation."
+            data-extras-id="tpl-wltlo-extras">
+            <button class="card__media" type="button" aria-haspopup="dialog" aria-label="Open Whoever Left the Light On — build report">
+              <img class="card__thumb" src="images/wltlo-menu.png" alt="Whoever Left the Light On — a single spotlit chair" data-ph="WHOEVER LEFT THE LIGHT ON" loading="lazy" />
+              <span class="card__tag card__tag--featured">Puzzle · Steam · Featured</span>
+              <span class="card__cue" aria-hidden="true">View project · build report</span>
+            </button>
+            <div class="card__body">
+              <h3 class="card__title">Whoever Left the Light On</h3>
+              <p class="card__desc">A POV surreal puzzle game where dream logic replaces the rules you know. Micro Studio's shipped student demo — 12 people, 12 weeks, one release. Open the card for the full build report.</p>
+              <div class="card__actions">
+                <a class="btn btn--solid" href="#">Steam page <span aria-hidden="true">↗</span></a>
+                <span class="card__note">Releasing 30 Sep 2026</span>
+              </div>
+            </div>
+          </article>
+
+          <!-- 2 — Guns On Ice -->
+          <article class="card"
+            data-images="images/guns-on-ice.png|images/guns-on-ice-powerup.png|images/guns-on-ice-controls.png|images/guns-on-ice.mp4"
+            data-alts="Guns On Ice — skating past the snowplough|Power-up card selector|In-game controls / power-ups overlay|Gameplay video"
+            data-involve="Solo project — all programming, systems and 2D art.">
+            <button class="card__media" type="button" aria-haspopup="dialog" aria-label="Open Guns On Ice gallery">
+              <img class="card__thumb" src="images/guns-on-ice.png" alt="Guns On Ice gameplay — a bright, arcade ice arena" data-ph="GUNS ON ICE" loading="lazy" />
+              <span class="card__tag">Solo Project / Arcade</span>
+              <span class="card__cue" aria-hidden="true">View project · 4 items</span>
+            </button>
+            <div class="card__body">
+              <h3 class="card__title">Guns On Ice</h3>
+              <p class="card__desc">A solo project built for my Object-Oriented Programming module to demonstrate recoil-based physics and sliding movement mechanics in Unity — fleshed out into a full arcade game where you skate around dodging a snowplough and yetis using your own gun recoil.</p>
+              <div class="card__actions">
+                <a class="btn" href="https://generaljdg.itch.io/guns-on-ice" target="_blank" rel="noopener noreferrer">Play on itch.io <span aria-hidden="true">↗</span></a>
+              </div>
+            </div>
+          </article>
+
+          <!-- 2 — Day in the Life of a Carrot Farmer -->
+          <article class="card"
+            data-images="images/carrot-farmer-menu.png|images/carrot-farmer.png|images/carrot-farmer-mac.png|images/carrot-farmer-powerup.png"
+            data-alts="Main menu|Boss horde — 101 rabbits on-screen|Frankenstein carrot boss encounter|Power-up card selector (my system)"
+            data-involve="First joint uni project — I built player movement and camera, the interaction system, and the power-up system. Kasper Crittenden-Wedge handled animation and enemy AI; LouisJDC contributed art and systems.">
+            <button class="card__media" type="button" aria-haspopup="dialog" aria-label="Open Day in the Life of a Carrot Farmer gallery">
+              <img class="card__thumb" src="images/carrot-farmer.png" alt="Carrot Farmer gameplay — an isometric farm overrun by rabbits" data-ph="CARROT FARMER" loading="lazy" />
+              <span class="card__tag">Action / Roguelike</span>
+              <span class="card__cue" aria-hidden="true">View project · 4 images</span>
+            </button>
+            <div class="card__body">
+              <h3 class="card__title">Day in the Life of a Carrot Farmer</h3>
+              <p class="card__desc">My first ever joint team project at university, built with Kasper Crittenden-Wedge and LouisJDC. I handled player movement and camera, the player interaction system, and the power-up system, while Kasper focused on animation and enemy AI.</p>
+              <div class="card__actions">
+                <a class="btn" href="https://generaljdg.itch.io/day-in-the-life-of-a-carrot-farmer" target="_blank" rel="noopener noreferrer">Play on itch.io <span aria-hidden="true">↗</span></a>
+              </div>
+            </div>
+          </article>
+
+          <!-- 3 — The Castle 2D -->
+          <article class="card"
+            data-images="images/castle2d.png|images/castle2d-gameplay.png|images/castle2d-sketch.png|images/castle2d-color.png"
+            data-alts="Title screen|In-game — the castle depths|Concept sketch|Coloured concept art"
+            data-involve="Solo — all programming and pixel art, sketch to screen. My first-ever finished game, made back in college.">
+            <button class="card__media" type="button" aria-haspopup="dialog" aria-label="Open The Castle 2D gallery">
+              <img class="card__thumb" src="images/castle2d.png" alt="The Castle 2D title screen" data-ph="THE CASTLE 2D" loading="lazy" />
+              <span class="card__tag">Solo Project / Pixel Art · First Game</span>
+              <span class="card__cue" aria-hidden="true">View project · 4 images</span>
+            </button>
+            <div class="card__body">
+              <h3 class="card__title">The Castle 2D</h3>
+              <p class="card__desc">My first ever game, made back in college. Explore branching corridors, fight enemies with your sword, and find hidden chests with small power-ups (extra damage or extra speed) on your way to a series of mini-bosses and a final boss. No dialogue — just environmental storytelling.</p>
+              <div class="card__actions">
+                <a class="btn btn--disabled" href="#" aria-disabled="true" tabindex="-1">Coming soon</a>
+              </div>
+            </div>
+          </article>
+
+          <!-- 4 — CapSize -->
+          <article class="card"
+            data-images="images/capsize-1.jpg|images/capsize-2.jpg|images/capsize-3.jpg"
+            data-alts="The finished hex-tile board|Close-up of the compass tile|Mid-game with dice and tokens"
+            data-involve="Team of four — I contributed to systems design and prototyping, and helped shape the wager/risk mechanics.">
+            <button class="card__media" type="button" aria-haspopup="dialog" aria-label="Open CapSize gallery">
+              <img class="card__thumb" src="images/capsize-1.jpg" alt="CapSize — a hand-built hex-tile board game" data-ph="CAPSIZE" loading="lazy" />
+              <span class="card__tag">Board Game / Game Jam</span>
+              <span class="card__cue" aria-hidden="true">View project · 3 photos</span>
+            </button>
+            <div class="card__body">
+              <h3 class="card__title">CapSize</h3>
+              <p class="card__desc">A physical board game built with a team of four for a game jam — one of the projects I'm proudest of. Players wager chips in a fast-paced, risk-reward game with chance-based dice rolls and event cards, balancing luck against how much risk you're willing to take. Games run 30–45 minutes. Plans to fully develop it and possibly publish.</p>
+              <div class="card__actions">
+                <span class="card__note">Physical prototype</span>
+              </div>
+            </div>
+          </article>
+
+          <!-- 5 — Dissertation -->
+          <article class="card"
+            data-images="images/dissertation-1.png"
+            data-alts="Dissertation — first-person boat POV sailing between procedurally generated islands"
+            data-involve="Solo final-year research project — Unity, procedural generation, study design and analysis across a 32-participant study.">
+            <button class="card__media" type="button" aria-haspopup="dialog" aria-label="Open dissertation project gallery">
+              <img class="card__thumb" src="images/dissertation-1.png" alt="Dissertation project — boat and procedurally generated islands at sunset" data-ph="DISSERTATION" loading="lazy" />
+              <span class="card__tag">Dissertation / Unity Survival</span>
+              <span class="card__cue" aria-hidden="true">View project</span>
+            </button>
+            <div class="card__body">
+              <h3 class="card__title">Can Generated Points of Interest Intuitively Communicate Resource Affordances to Players?</h3>
+              <p class="card__desc">A Unity survival game where players sail a boat between procedurally generated islands, each hiding one of three resources. My research tested whether an island's generated appearance — shape, colour, terrain and props — could intuitively signal what resource it held without explicit markers: darker, jagged islands with rocks and oil tanks signal fuel; flatter, circular islands with palm trees signal food. Tested against a control group using consistent colour-coding across a 32-participant study.</p>
+              <div class="card__actions">
+                <a class="btn" href="images/dissertation-report.pdf" target="_blank" rel="noopener noreferrer">Read the dissertation (PDF) <span aria-hidden="true">↗</span></a>
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <!-- ============ TECHNICAL SHOWCASES ============ -->
+        <header class="subsection-head subsection-head--tech">
+          <h3 class="subsection-head__title"><span class="subsection-head__mark" aria-hidden="true">02</span>Technical Showcases</h3>
+          <p class="subsection-head__lead">Standalone demos exploring one technique.</p>
+        </header>
+
+        <div class="grid grid--tech">
+          <!-- Tech 1 — Black Hole Shader -->
+          <article class="card card--tech card--video"
+            data-images="images/blackhole-render.mp4"
+            data-alts="Black hole shader render — gravitational lensing in Unreal Engine"
+            data-involve="Blueprint scripting and the mathematics for gravitational lensing / light distortion.">
+            <button class="card__media" type="button" aria-haspopup="dialog" aria-label="Open Black Hole shader video">
+              <img class="card__thumb" src="" alt="" data-ph="BLACK HOLE · VIDEO" loading="lazy" />
+              <span class="card__play" aria-hidden="true">▶</span>
+              <span class="card__tag">Technical Demo / Shader Programming</span>
+              <span class="card__cue" aria-hidden="true">Watch video</span>
+            </button>
+            <div class="card__body">
+              <h3 class="card__title">Black Hole Shader</h3>
+              <p class="card__desc">A real-time black hole shader built in Unreal Engine using Blueprint scripting and mathematics to simulate gravitational lensing and light distortion.</p>
+            </div>
+          </article>
+
+          <!-- Tech 2 — Hole in the Wall -->
+          <article class="card card--tech card--video"
+            data-images="images/hole-in-wall.mp4"
+            data-alts="Boid flocking simulation — agents steering through a wall aperture"
+            data-involve="Unity flocking AI — boid steering, avoidance, and target seeking against a moving cull volume.">
+            <button class="card__media" type="button" aria-haspopup="dialog" aria-label="Open Hole in the Wall video">
+              <img class="card__thumb" src="" alt="" data-ph="HOLE IN THE WALL · VIDEO" loading="lazy" />
+              <span class="card__play" aria-hidden="true">▶</span>
+              <span class="card__tag">Technical Demo / AI Simulation</span>
+              <span class="card__cue" aria-hidden="true">Watch video</span>
+            </button>
+            <div class="card__body">
+              <h3 class="card__title">Hole in the Wall</h3>
+              <p class="card__desc">A Unity flocking-AI simulation: a 3D wall advances toward a field of 2D boid agents, who must react and steer themselves into position to pass through a hole in the wall before it reaches them — any that don't make it in time are removed as the wall passes through.</p>
+            </div>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================== ABOUT ============================== -->
+    <section class="about" id="about" aria-labelledby="about-title">
+      <div class="about__inner">
+        <header class="section-head">
+          <p class="section-head__eyebrow">About</p>
+          <h2 id="about-title" class="section-head__title">A bit about me</h2>
+        </header>
+
+        <p class="about__body">
+          I am a UK-based Game Developer specializing in Unity, Unreal Engine and C# scripting.
+          I recently graduated from the University of Greenwich and wrapped up a 14-week studio
+          project as Lead Programmer on <em>Whoever Left the Light On</em>, successfully shipping
+          a game to Steam with a 13-person team. I really enjoy the whole process of making games,
+          from early-stage physical prototyping like my hexagon-grid board game <em>CapSize</em> to
+          analyzing user-testing telemetry and optimizing final digital builds.
+          Outside of development, I'm a sous chef with several years of experience leading and working
+          within a fast-paced kitchen. I'm also a PC-building enthusiast, a Chelsea fan, and an avid
+          Elden Ring player.
+        </p>
+
+        <div class="about__education" aria-labelledby="edu-title">
+          <h3 class="about__education-title" id="edu-title">Education</h3>
+          <ul class="about__education-list">
+            <li class="edu">
+              <span class="edu__degree">BSc (Hons) Games Design and Development (Programming) <span class="edu__grade">2:1</span></span>
+              <span class="edu__meta">University of Greenwich <span class="edu__sep" aria-hidden="true">·</span> 2026</span>
+            </li>
+            <li class="edu">
+              <span class="edu__degree">BTEC Extended Diploma in Games Design <span class="edu__grade">D*/D*/D</span></span>
+              <span class="edu__meta">North Kent College, Dartford</span>
+            </li>
+            <li class="edu">
+              <span class="edu__degree">BTEC Creative Media <span class="edu__grade">Distinction</span></span>
+              <span class="edu__meta">Longfield Academy <span class="edu__sep" aria-hidden="true">·</span> 2021</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- ============================= CONTACT ============================= -->
+    <section class="contact" id="contact" aria-labelledby="contact-title">
+      <div class="contact__inner">
+        <header class="section-head">
+          <p class="section-head__eyebrow">Contact</p>
+          <h2 id="contact-title" class="section-head__title">Hire me</h2>
+          <p class="section-head__lead">The quickest way to reach me is email or grab my CV below — or drop me a message on LinkedIn.</p>
+        </header>
+
+        <div class="contact__cta">
+          <a class="btn btn--solid btn--lg" href="mailto:joshua@familygorton.com?subject=Portfolio%20enquiry">
+            Hire me <span aria-hidden="true">→</span>
+          </a>
+          <a class="btn btn--lg" href="Joshua-Gorton-CV.pdf" target="_blank" rel="noopener noreferrer" download>
+            Download CV <span aria-hidden="true">↧</span>
+          </a>
+        </div>
+
+        <ul class="contact__links">
+          <li>
+            <a class="social" href="https://www.linkedin.com/in/joshua-gorton-641221349/" target="_blank" rel="noopener noreferrer">
+              <span class="social__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.03-3.04-1.85-3.04-1.86 0-2.14 1.45-2.14 2.94v5.67H9.34V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.07 2.07 0 1 1 0-4.14 2.07 2.07 0 0 1 0 4.14zM7.12 20.45H3.56V9h3.56v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0z"/></svg>
+              </span>
+              <span class="social__label">LinkedIn</span>
+            </a>
+          </li>
+          <li>
+            <a class="social" href="https://generaljdg.itch.io" target="_blank" rel="noopener noreferrer">
+              <span class="social__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><line x1="6" y1="11" x2="10" y2="11"/><line x1="8" y1="9" x2="8" y2="13"/><circle cx="15.5" cy="11.5" r=".9" fill="currentColor" stroke="none"/><circle cx="18" cy="9.5" r=".9" fill="currentColor" stroke="none"/><path d="M17.5 5H6.5A4 4 0 0 0 2.6 8.2L2 13.6A3 3 0 0 0 7.4 15.6l.5-.7a2 2 0 0 1 1.6-.9h5a2 2 0 0 1 1.6.9l.5.7a3 3 0 0 0 5.4-2l-.6-5.4A4 4 0 0 0 17.5 5z"/></svg>
+              </span>
+              <span class="social__label">itch.io</span>
+            </a>
+          </li>
+          <li>
+            <a class="social" href="mailto:joshua@familygorton.com">
+              <span class="social__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="4.5" width="19" height="15" rx="2.5"/><path d="M3 6.5l9 6 9-6"/></svg>
+              </span>
+              <span class="social__label">Email</span>
+            </a>
+          </li>
+          <li>
+            <span class="social social--soon" aria-disabled="true" title="Coming soon">
+              <span class="social__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"><rect x="2.5" y="2.5" width="19" height="19" rx="5.5"/><circle cx="12" cy="12" r="4.2"/><circle cx="17.6" cy="6.4" r="1.1" fill="currentColor" stroke="none"/></svg>
+              </span>
+              <span class="social__label">Instagram</span>
+              <span class="social__soon">soon</span>
+            </span>
+          </li>
+          <li>
+            <span class="social social--soon" aria-disabled="true" title="Coming soon">
+              <span class="social__icon" aria-hidden="true">
+                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M16.6 5.82A4.28 4.28 0 0 1 14 2.5h-3.03v11.67a2.59 2.59 0 1 1-2.59-2.59c.27 0 .53.04.78.12V8.6a5.7 5.7 0 0 0-.78-.05 5.62 5.62 0 1 0 5.62 5.62V8.3a7.29 7.29 0 0 0 4.6 1.61V6.9a4.28 4.28 0 0 1-2-.08z"/></svg>
+              </span>
+              <span class="social__label">TikTok</span>
+              <span class="social__soon">soon</span>
+            </span>
+          </li>
+        </ul>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <p>© <span id="year"></span> Joshua Gorton</p>
+    </div>
+  </footer>
+
+  <!-- ===================== Project gallery lightbox ===================== -->
+  <div class="lightbox" id="lightbox" hidden>
+    <div class="lightbox__backdrop" data-close></div>
+    <div class="lightbox__dialog" role="dialog" aria-modal="true" aria-labelledby="lb-title">
+      <button class="lightbox__close" type="button" data-close aria-label="Close project">✕</button>
+
+      <div class="lightbox__media">
+        <img class="lightbox__img" alt="" />
+        <video class="lightbox__video" controls playsinline muted preload="none" hidden></video>
+        <div class="lightbox__loading" hidden aria-live="polite">
+          <span class="lightbox__spinner" aria-hidden="true"></span>
+          <span class="lightbox__loading-text">Loading video…</span>
+        </div>
+        <button class="lightbox__nav lightbox__nav--prev" type="button" aria-label="Previous item">‹</button>
+        <button class="lightbox__nav lightbox__nav--next" type="button" aria-label="Next item">›</button>
+        <p class="lightbox__counter"><span class="lightbox__index">1</span> / <span class="lightbox__total">1</span></p>
+      </div>
+
+      <div class="lightbox__info">
+        <p class="lightbox__tag"></p>
+        <h3 class="lightbox__title" id="lb-title"></h3>
+        <p class="lightbox__desc"></p>
+        <p class="lightbox__involve"></p>
+        <div class="lightbox__dots" aria-label="Choose image" role="tablist"></div>
+        <div class="lightbox__actions"></div>
+        <div class="lightbox__extras" hidden></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
