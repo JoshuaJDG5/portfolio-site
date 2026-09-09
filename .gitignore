@@ -10,3 +10,6 @@ Desktop.ini
 
 # Logs / local scratch
 *.log
+
+# Editable CV source — only the PDF is published to the site
+*.docx

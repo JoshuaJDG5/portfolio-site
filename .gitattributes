@@ -1,0 +1,9 @@
+# Never apply line-ending conversion to binary assets.
+# The CV PDF contains no NUL bytes, so git's auto-detection would otherwise
+# treat it as text and corrupt its byte offsets on checkout.
+*.pdf   binary
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.mp4   binary
+*.docx  binary
