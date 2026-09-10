@@ -19,58 +19,82 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R >>
 endobj
 7 0 obj
-<< /Length 12316 >>
+<< /Length 14126 >>
 stream
 0.078 0.078 0.078 rg 0 0 180 841.89 re f
-BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 22 789.89 Tm (CONTACT) Tj ET
-0.25 0.25 0.25 RG 0.7 w 22 783.89 m 158 783.89 l S
-BT /F1 8.5 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 772.39 Tm (London, UK) Tj ET
-BT /F1 8.5 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 760.99 Tm (joshua@familygorton.com) Tj ET
-BT /F1 8.5 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 749.59 Tm (joshuagorton.dev) Tj ET
-BT /F1 8.2 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 738.19 Tm (linkedin.com/in/joshua-gorton) Tj ET
-BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 22 711.09 Tm (ENGINES) Tj ET
-0.25 0.25 0.25 RG 0.7 w 22 705.09 m 158 705.09 l S
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 693.59 Tm (Unity) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 682.09 Tm (Unreal Engine) Tj ET
-BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 22 654.59 Tm (LANGUAGES) Tj ET
-0.25 0.25 0.25 RG 0.7 w 22 648.59 m 158 648.59 l S
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 637.09 Tm (C#) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 625.59 Tm (C++) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 614.09 Tm (Blueprint visual scripting) Tj ET
-BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 22 586.59 Tm (CORE SKILLS) Tj ET
-0.25 0.25 0.25 RG 0.7 w 22 580.59 m 158 580.59 l S
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 569.09 Tm (Gameplay programming) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 557.59 Tm (Systems design) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 546.09 Tm (Procedural generation) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 534.59 Tm (Enemy & navigational AI) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 523.09 Tm (Shader programming) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 511.59 Tm (Physics-based mechanics) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 500.09 Tm (Level design) Tj ET
-BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 22 472.59 Tm (TOOLS & PRACTICE) Tj ET
-0.25 0.25 0.25 RG 0.7 w 22 466.59 m 158 466.59 l S
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 455.09 Tm (Git Flow, GitHub Desktop & Git CLI) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 443.59 Tm (Repository structure & asset file) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 432.09 Tm (management) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 420.59 Tm (Technical documentation) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 409.09 Tm (User testing & telemetry analysis) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 397.59 Tm (Team leadership & studio) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 386.09 Tm (production) Tj ET
-BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 22 358.59 Tm (EDUCATION) Tj ET
-0.25 0.25 0.25 RG 0.7 w 22 352.59 m 158 352.59 l S
-BT /F2 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 341.09 Tm (BSc \(Hons\) Games Design and) Tj ET
-BT /F2 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 329.79 Tm (Development \(Programming\)) Tj ET
-BT /F1 8.2 Tf 0 Tc 0.62 0.62 0.62 rg 1 0 0 1 22 318.49 Tm (University of Greenwich \267 2:1 \267 2026) Tj ET
-BT /F2 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 302.69 Tm (BTEC Extended Diploma in) Tj ET
-BT /F2 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 291.39 Tm (Games Design) Tj ET
-BT /F1 8.2 Tf 0 Tc 0.62 0.62 0.62 rg 1 0 0 1 22 280.09 Tm (North Kent College \267 D*/D*/D) Tj ET
-BT /F2 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 264.29 Tm (BTEC Creative Media) Tj ET
-BT /F1 8.2 Tf 0 Tc 0.62 0.62 0.62 rg 1 0 0 1 22 252.99 Tm (Longfield Academy \267 Distinction \267) Tj ET
-BT /F1 8.2 Tf 0 Tc 0.62 0.62 0.62 rg 1 0 0 1 22 242.19 Tm (2021) Tj ET
-BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 22 215.39 Tm (INTERESTS) Tj ET
-0.25 0.25 0.25 RG 0.7 w 22 209.39 m 158 209.39 l S
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 197.89 Tm (PC building and hardware) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 186.39 Tm (Chelsea FC) Tj ET
-BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 174.89 Tm (Elden Ring) Tj ET
+BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 32 789.89 Tm (CONTACT) Tj ET
+0.25 0.25 0.25 RG 0.7 w 32 783.89 m 162 783.89 l S
+BT /F1 8.5 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 32 772.39 Tm (London, UK) Tj ET
+BT /F1 8.5 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 32 760.99 Tm (joshua@familygorton.com) Tj ET
+BT /F1 8.5 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 32 749.59 Tm (joshuagorton.dev) Tj ET
+BT /F1 7.9 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 32 738.19 Tm (linkedin.com/in/joshua-gorton) Tj ET
+BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 32 711.39 Tm (ENGINES) Tj ET
+0.25 0.25 0.25 RG 0.7 w 32 705.39 m 162 705.39 l S
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 693.89 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 693.89 Tm (Unity) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 682.39 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 682.39 Tm (Unreal Engine) Tj ET
+BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 32 654.89 Tm (LANGUAGES) Tj ET
+0.25 0.25 0.25 RG 0.7 w 32 648.89 m 162 648.89 l S
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 637.39 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 637.39 Tm (C#) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 625.89 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 625.89 Tm (C++) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 614.39 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 614.39 Tm (Blueprint visual scripting) Tj ET
+BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 32 586.89 Tm (CORE SKILLS) Tj ET
+0.25 0.25 0.25 RG 0.7 w 32 580.89 m 162 580.89 l S
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 569.39 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 569.39 Tm (Gameplay programming) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 557.89 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 557.89 Tm (Systems design) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 546.39 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 546.39 Tm (Procedural generation) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 534.89 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 534.89 Tm (Enemy & navigational AI) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 523.39 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 523.39 Tm (Shader programming) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 511.89 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 511.89 Tm (Physics-based mechanics) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 500.39 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 500.39 Tm (Level design) Tj ET
+BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 32 472.89 Tm (TOOLS & PRACTICE) Tj ET
+0.25 0.25 0.25 RG 0.7 w 32 466.89 m 162 466.89 l S
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 455.39 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 455.39 Tm (Git Flow branching) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 443.89 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 443.89 Tm (GitHub Desktop & Git CLI) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 432.39 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 432.39 Tm (Repository structure) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 420.89 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 420.89 Tm (Asset file management) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 409.39 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 409.39 Tm (Technical documentation) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 397.89 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 397.89 Tm (User testing & telemetry) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 386.39 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 386.39 Tm (Team leadership) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 374.89 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 374.89 Tm (Studio production) Tj ET
+BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 32 347.39 Tm (EDUCATION) Tj ET
+0.25 0.25 0.25 RG 0.7 w 32 341.39 m 162 341.39 l S
+BT /F2 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 32 329.89 Tm (BSc \(Hons\) Games Design and) Tj ET
+BT /F2 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 32 318.59 Tm (Development \(Programming\)) Tj ET
+BT /F1 8.2 Tf 0 Tc 0.62 0.62 0.62 rg 1 0 0 1 32 307.29 Tm (University of Greenwich \267 2:1 \267 2026) Tj ET
+BT /F2 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 32 291.49 Tm (BTEC Extended Diploma in) Tj ET
+BT /F2 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 32 280.19 Tm (Games Design) Tj ET
+BT /F1 8.2 Tf 0 Tc 0.62 0.62 0.62 rg 1 0 0 1 32 268.89 Tm (North Kent College \267 D*/D*/D) Tj ET
+BT /F2 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 32 253.09 Tm (BTEC Creative Media) Tj ET
+BT /F1 8.2 Tf 0 Tc 0.62 0.62 0.62 rg 1 0 0 1 32 241.79 Tm (Longfield Academy \267 Distinction \267) Tj ET
+BT /F1 8.2 Tf 0 Tc 0.62 0.62 0.62 rg 1 0 0 1 32 230.99 Tm (2021) Tj ET
+BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 32 204.19 Tm (INTERESTS) Tj ET
+0.25 0.25 0.25 RG 0.7 w 32 198.19 m 162 198.19 l S
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 186.69 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 186.69 Tm (PC building and hardware) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 175.19 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 175.19 Tm (Chelsea FC) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.957 0.451 0.478 rg 1 0 0 1 32.5 163.69 Tm (\225) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 41 163.69 Tm (Elden Ring) Tj ET
 BT /F2 25 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 777.89 Tm (Joshua Gorton) Tj ET
 BT /F2 9.4 Tf 2.1 Tc 0.831 0.318 0.353 rg 1 0 0 1 210 762.89 Tm (GAME DESIGNER / PROGRAMMER) Tj ET
 0.855 0.855 0.855 RG 0.7 w 210 753.89 m 553.28 753.89 l S
@@ -167,5 +191,5 @@ xref
 trailer
 << /Size 8 /Root 1 0 R >>
 startxref
-12947
+14757
 %%EOF
