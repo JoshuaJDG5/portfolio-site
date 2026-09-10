@@ -4,7 +4,7 @@
 << /Type /Catalog /Pages 2 0 R >>
 endobj
 2 0 obj
-<< /Type /Pages /Count 2 /Kids [6 0 R 7 0 R] >>
+<< /Type /Pages /Count 1 /Kids [6 0 R] >>
 endobj
 3 0 obj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
@@ -16,142 +16,156 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
 endobj
 6 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 8 0 R >>
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R >>
 endobj
 7 0 obj
-<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 9 0 R >>
-endobj
-8 0 obj
-<< /Length 8238 >>
+<< /Length 12316 >>
 stream
-BT /F2 23 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 771.89 Tm (Joshua Gorton) Tj ET
-BT /F2 10 Tf 0.78 0.27 0.3 rg 1 0 0 1 52 756.89 Tm (GAME DESIGNER / PROGRAMMER) Tj ET
-BT /F1 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 52 742.89 Tm (London, UK) Tj ET
-BT /F1 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 99.53 742.89 Tm (   \267   ) Tj ET
-BT /F2 9 Tf 0.78 0.27 0.3 rg 1 0 0 1 117.04 742.89 Tm (joshua@familygorton.com) Tj ET
-BT /F1 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 230.34 742.89 Tm (   \267   ) Tj ET
-BT /F2 9 Tf 0.78 0.27 0.3 rg 1 0 0 1 247.85 742.89 Tm (joshuagorton.dev) Tj ET
-BT /F1 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 323.36 742.89 Tm (   \267   ) Tj ET
-BT /F2 9 Tf 0.78 0.27 0.3 rg 1 0 0 1 340.87 742.89 Tm (linkedin.com/in/joshua-gorton) Tj ET
-0.84 0.84 0.84 RG 0.6 w 52 735.89 m 543.28 735.89 l S
-BT /F2 10.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 714.89 Tm (PROFILE) Tj ET
-0.78 0.27 0.3 RG 0.9 w 52 709.39 m 543.28 709.39 l S
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 698.39 Tm (UK-based gameplay programmer and recent University of Greenwich graduate specialising in Unity, Unreal Engine) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 686.59 Tm (and C# scripting. Lead Programmer on Whoever Left the Light On, a surreal POV puzzle game shipped to Steam,) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 674.79 Tm (where I led a team of four programmers within a twelve-person studio. I enjoy the full development process, from) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 662.99 Tm (early physical prototyping through to analysing user-testing telemetry and optimising final builds. I thrive in) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 651.19 Tm (collaborative environments and love solving problems to give players a great gameplay experience.) Tj ET
-BT /F2 10.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 622.39 Tm (SKILLS) Tj ET
-0.78 0.27 0.3 RG 0.9 w 52 616.89 m 543.28 616.89 l S
-BT /F2 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 605.89 Tm (Engines) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 96.88 605.89 Tm (Unity, Unreal Engine) Tj ET
-BT /F2 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 594.39 Tm (Languages) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 110.07 594.39 Tm (C#, C++, Blueprint visual scripting) Tj ET
-BT /F2 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 582.89 Tm (Disciplines) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 110.08 582.89 Tm (Gameplay programming, systems design, procedural generation, enemy and navigational AI, shader) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 110.08 571.39 Tm (programming, physics-based mechanics, level design, GitHub Desktop and Git CLI, repository) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 110.08 559.89 Tm (structure, asset file management) Tj ET
-BT /F2 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 548.39 Tm (Practice) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 96.89 548.39 Tm (Team leadership, technical documentation, user testing and telemetry analysis, studio production) Tj ET
-BT /F2 10.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 519.89 Tm (SELECTED PROJECTS) Tj ET
-0.78 0.27 0.3 RG 0.9 w 52 514.39 m 543.28 514.39 l S
-BT /F2 10 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 503.39 Tm (Whoever Left the Light On - Lead Programmer) Tj ET
-BT /F1 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 523.26 503.39 Tm (2026) Tj ET
-BT /F3 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 52 491.89 Tm (Micro Studio \267 Released on Steam) Tj ET
-BT /F1 9.5 Tf 0.78 0.27 0.3 rg 1 0 0 1 54 479.89 Tm (\225) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 479.89 Tm (Led a team of 4 programmers within a 12-person studio, shipping the game to Steam.) Tj ET
-BT /F1 9.5 Tf 0.78 0.27 0.3 rg 1 0 0 1 54 468.39 Tm (\225) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 468.39 Tm (Designed core game systems, authored technical documentation, and managed team organisation across the full) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 456.89 Tm (production cycle.) Tj ET
-BT /F1 9.5 Tf 0.78 0.27 0.3 rg 1 0 0 1 54 445.39 Tm (\225) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 445.39 Tm (Owned the team's Git practice: Git Flow branching, repository structure and file-naming conventions across 4) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 433.89 Tm (programmers.) Tj ET
-BT /F2 10 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 422.39 Tm (Dissertation - Procedural Generation Research) Tj ET
-BT /F1 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 523.26 422.39 Tm (2026) Tj ET
-BT /F3 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 52 410.89 Tm (Solo research project \267 University of Greenwich) Tj ET
-BT /F1 9.5 Tf 0.78 0.27 0.3 rg 1 0 0 1 54 398.89 Tm (\225) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 398.89 Tm (Can Generated Points of Interest Intuitively Communicate Resource Affordances to Players?) Tj ET
-BT /F1 9.5 Tf 0.78 0.27 0.3 rg 1 0 0 1 54 387.39 Tm (\225) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 387.39 Tm (Built a Unity survival game where players sail between procedurally generated islands, testing whether an island's) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 375.89 Tm (appearance could signal its resource without explicit markers.) Tj ET
-BT /F1 9.5 Tf 0.78 0.27 0.3 rg 1 0 0 1 54 364.39 Tm (\225) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 364.39 Tm (Designed and ran a 32-participant study against a colour-coded control group, then analysed the results.) Tj ET
-BT /F2 10 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 352.89 Tm (Guns On Ice - Solo Project) Tj ET
-BT /F1 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 523.26 352.89 Tm (2025) Tj ET
-BT /F3 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 52 341.39 Tm (Unity \267 Object-Oriented Programming module \267 Released on itch.io) Tj ET
-BT /F1 9.5 Tf 0.78 0.27 0.3 rg 1 0 0 1 54 329.39 Tm (\225) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 329.39 Tm (Sole developer - built recoil-based physics and sliding movement mechanics in Unity, fleshed out into a full) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 317.89 Tm (arcade game.) Tj ET
-BT /F2 10 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 306.39 Tm (Day in the Life of a Carrot Farmer - Team Project) Tj ET
-BT /F1 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 523.26 306.39 Tm (2024) Tj ET
-BT /F3 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 52 294.89 Tm (Unity \267 University of Greenwich \267 Released on itch.io) Tj ET
-BT /F1 9.5 Tf 0.78 0.27 0.3 rg 1 0 0 1 54 282.89 Tm (\225) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 282.89 Tm (First joint university project \(team of three\) - built the player movement and camera, the interaction system, and) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 271.39 Tm (the power-up system.) Tj ET
-BT /F2 10 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 259.89 Tm (CapSize - Board Game, Team of Four) Tj ET
-BT /F1 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 499.27 259.89 Tm (Game Jam) Tj ET
-BT /F3 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 52 248.39 Tm (Physical hex-tile prototype) Tj ET
-BT /F1 9.5 Tf 0.78 0.27 0.3 rg 1 0 0 1 54 236.39 Tm (\225) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 236.39 Tm (Contributed to systems design and prototyping, shaping the wager/risk mechanics around chance-based dice rolls) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 224.89 Tm (and event cards.) Tj ET
-BT /F2 10 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 213.39 Tm (The Castle 2D - Solo Project) Tj ET
-BT /F1 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 512.77 213.39 Tm (College) Tj ET
-BT /F3 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 52 201.89 Tm (Unity \267 First finished game) Tj ET
-BT /F1 9.5 Tf 0.78 0.27 0.3 rg 1 0 0 1 54 189.89 Tm (\225) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 189.89 Tm (Branching corridors, sword combat, hidden power-ups and boss encounters, told through environmental) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 178.39 Tm (storytelling with no dialogue.) Tj ET
-BT /F2 10.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 149.89 Tm (TECHNICAL DEMOS) Tj ET
-0.78 0.27 0.3 RG 0.9 w 52 144.39 m 543.28 144.39 l S
-BT /F2 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 133.39 Tm (Black Hole Shader \(Unreal Engine\)) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 213.55 133.39 Tm (- real-time gravitational lensing and light distortion, built with Blueprint scripting) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 213.55 121.89 Tm (and mathematics.) Tj ET
-BT /F2 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 110.39 Tm (Hole in the Wall \(Unity\)) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 160.74 110.39 Tm (- a flocking-AI simulation where 2D boid agents steer themselves into position to pass) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 160.74 98.89 Tm (through an aperture in an advancing wall.) Tj ET
-
-endstream
-endobj
-9 0 obj
-<< /Length 1798 >>
-stream
-BT /F2 10.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 774.89 Tm (EDUCATION) Tj ET
-0.78 0.27 0.3 RG 0.9 w 52 769.39 m 543.28 769.39 l S
-BT /F2 10 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 758.39 Tm (BSc \(Hons\) Games Design and Development \(Programming\) - 2:1) Tj ET
-BT /F1 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 523.26 758.39 Tm (2026) Tj ET
-BT /F3 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 52 746.89 Tm (University of Greenwich) Tj ET
-BT /F2 10 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 734.89 Tm (BTEC Extended Diploma in Games Design - D*/D*/D) Tj ET
-BT /F3 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 52 723.39 Tm (North Kent College, Dartford) Tj ET
-BT /F2 10 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 711.39 Tm (BTEC Creative Media - Distinction) Tj ET
-BT /F1 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 523.26 711.39 Tm (2021) Tj ET
-BT /F3 9 Tf 0.42 0.42 0.42 rg 1 0 0 1 52 699.89 Tm (Longfield Academy) Tj ET
-BT /F2 10.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 670.89 Tm (OTHER EXPERIENCE) Tj ET
-0.78 0.27 0.3 RG 0.9 w 52 665.39 m 543.28 665.39 l S
-BT /F2 10 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 654.39 Tm (Sous Chef) Tj ET
-BT /F1 9.5 Tf 0.78 0.27 0.3 rg 1 0 0 1 54 642.89 Tm (\225) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 642.89 Tm (Five years leading and working within a fast-paced professional kitchen.) Tj ET
-BT /F1 9.5 Tf 0.78 0.27 0.3 rg 1 0 0 1 54 631.39 Tm (\225) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 631.39 Tm (Developed team leadership, composure under pressure, and coordinating people to tight deadlines \226 all of which) Tj ET
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 64 619.89 Tm (carry directly into studio production.) Tj ET
-BT /F2 10.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 591.39 Tm (INTERESTS) Tj ET
-0.78 0.27 0.3 RG 0.9 w 52 585.89 m 543.28 585.89 l S
-BT /F1 9.5 Tf 0.1 0.1 0.1 rg 1 0 0 1 52 574.89 Tm (PC building and hardware, Chelsea FC, and an avid Elden Ring player.) Tj ET
+0.078 0.078 0.078 rg 0 0 180 841.89 re f
+BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 22 789.89 Tm (CONTACT) Tj ET
+0.25 0.25 0.25 RG 0.7 w 22 783.89 m 158 783.89 l S
+BT /F1 8.5 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 772.39 Tm (London, UK) Tj ET
+BT /F1 8.5 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 760.99 Tm (joshua@familygorton.com) Tj ET
+BT /F1 8.5 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 749.59 Tm (joshuagorton.dev) Tj ET
+BT /F1 8.2 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 738.19 Tm (linkedin.com/in/joshua-gorton) Tj ET
+BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 22 711.09 Tm (ENGINES) Tj ET
+0.25 0.25 0.25 RG 0.7 w 22 705.09 m 158 705.09 l S
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 693.59 Tm (Unity) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 682.09 Tm (Unreal Engine) Tj ET
+BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 22 654.59 Tm (LANGUAGES) Tj ET
+0.25 0.25 0.25 RG 0.7 w 22 648.59 m 158 648.59 l S
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 637.09 Tm (C#) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 625.59 Tm (C++) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 614.09 Tm (Blueprint visual scripting) Tj ET
+BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 22 586.59 Tm (CORE SKILLS) Tj ET
+0.25 0.25 0.25 RG 0.7 w 22 580.59 m 158 580.59 l S
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 569.09 Tm (Gameplay programming) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 557.59 Tm (Systems design) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 546.09 Tm (Procedural generation) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 534.59 Tm (Enemy & navigational AI) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 523.09 Tm (Shader programming) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 511.59 Tm (Physics-based mechanics) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 500.09 Tm (Level design) Tj ET
+BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 22 472.59 Tm (TOOLS & PRACTICE) Tj ET
+0.25 0.25 0.25 RG 0.7 w 22 466.59 m 158 466.59 l S
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 455.09 Tm (Git Flow, GitHub Desktop & Git CLI) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 443.59 Tm (Repository structure & asset file) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 432.09 Tm (management) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 420.59 Tm (Technical documentation) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 409.09 Tm (User testing & telemetry analysis) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 397.59 Tm (Team leadership & studio) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 386.09 Tm (production) Tj ET
+BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 22 358.59 Tm (EDUCATION) Tj ET
+0.25 0.25 0.25 RG 0.7 w 22 352.59 m 158 352.59 l S
+BT /F2 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 341.09 Tm (BSc \(Hons\) Games Design and) Tj ET
+BT /F2 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 329.79 Tm (Development \(Programming\)) Tj ET
+BT /F1 8.2 Tf 0 Tc 0.62 0.62 0.62 rg 1 0 0 1 22 318.49 Tm (University of Greenwich \267 2:1 \267 2026) Tj ET
+BT /F2 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 302.69 Tm (BTEC Extended Diploma in) Tj ET
+BT /F2 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 291.39 Tm (Games Design) Tj ET
+BT /F1 8.2 Tf 0 Tc 0.62 0.62 0.62 rg 1 0 0 1 22 280.09 Tm (North Kent College \267 D*/D*/D) Tj ET
+BT /F2 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 264.29 Tm (BTEC Creative Media) Tj ET
+BT /F1 8.2 Tf 0 Tc 0.62 0.62 0.62 rg 1 0 0 1 22 252.99 Tm (Longfield Academy \267 Distinction \267) Tj ET
+BT /F1 8.2 Tf 0 Tc 0.62 0.62 0.62 rg 1 0 0 1 22 242.19 Tm (2021) Tj ET
+BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 22 215.39 Tm (INTERESTS) Tj ET
+0.25 0.25 0.25 RG 0.7 w 22 209.39 m 158 209.39 l S
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 197.89 Tm (PC building and hardware) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 186.39 Tm (Chelsea FC) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.91 0.91 0.91 rg 1 0 0 1 22 174.89 Tm (Elden Ring) Tj ET
+BT /F2 25 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 777.89 Tm (Joshua Gorton) Tj ET
+BT /F2 9.4 Tf 2.1 Tc 0.831 0.318 0.353 rg 1 0 0 1 210 762.89 Tm (GAME DESIGNER / PROGRAMMER) Tj ET
+0.855 0.855 0.855 RG 0.7 w 210 753.89 m 553.28 753.89 l S
+BT /F2 9.6 Tf 1.05 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 735.89 Tm (PROFILE) Tj ET
+0.855 0.855 0.855 RG 0.7 w 210 729.39 m 553.28 729.39 l S
+0.831 0.318 0.353 RG 1.5 w 210 729.39 m 240 729.39 l S
+BT /F1 9.3 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 716.89 Tm (Gameplay programmer and University of Greenwich graduate specialising in Unity,) Tj ET
+BT /F1 9.3 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 704.99 Tm (Unreal Engine and C# scripting. Lead Programmer on Whoever Left the Light On, a) Tj ET
+BT /F1 9.3 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 693.09 Tm (surreal POV puzzle game shipped to Steam, leading four programmers inside a) Tj ET
+BT /F1 9.3 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 681.19 Tm (twelve-person studio. I enjoy the whole development process, from physical) Tj ET
+BT /F1 9.3 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 669.29 Tm (prototyping through to telemetry analysis and build optimisation, and I love solving) Tj ET
+BT /F1 9.3 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 657.39 Tm (problems that give players a better experience.) Tj ET
+BT /F2 9.6 Tf 1.05 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 630.49 Tm (SELECTED PROJECTS) Tj ET
+0.855 0.855 0.855 RG 0.7 w 210 623.99 m 553.28 623.99 l S
+0.831 0.318 0.353 RG 1.5 w 210 623.99 m 240 623.99 l S
+BT /F2 9.9 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 611.49 Tm (Whoever Left the Light On) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 534.15 611.49 Tm (2026) Tj ET
+BT /F3 8.6 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 210 600.09 Tm (Lead Programmer \267 Micro Studio \267 Released on Steam) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.831 0.318 0.353 rg 1 0 0 1 211.5 588.49 Tm (\225) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 221 588.49 Tm (Led a team of 4 programmers within a 12-person studio, shipping the game to) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 221 577.29 Tm (Steam.) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.831 0.318 0.353 rg 1 0 0 1 211.5 566.09 Tm (\225) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 221 566.09 Tm (Designed core game systems, authored technical documentation, and managed) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 221 554.89 Tm (team organisation across the full production cycle.) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.831 0.318 0.353 rg 1 0 0 1 211.5 543.69 Tm (\225) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 221 543.69 Tm (Owned the team\222s Git practice: Git Flow branching, repository structure and) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 221 532.49 Tm (file-naming conventions across 4 programmers.) Tj ET
+BT /F2 9.9 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 514.29 Tm (Dissertation \226 Procedural Generation Research) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 534.15 514.29 Tm (2026) Tj ET
+BT /F3 8.6 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 210 502.89 Tm (Solo research project \267 University of Greenwich) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.831 0.318 0.353 rg 1 0 0 1 211.5 491.29 Tm (\225) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 221 491.29 Tm (\221Can Generated Points of Interest Intuitively Communicate Resource Affordances) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 221 480.09 Tm (to Players?\222) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.831 0.318 0.353 rg 1 0 0 1 211.5 468.89 Tm (\225) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 221 468.89 Tm (Built a Unity survival game where players sail between procedurally generated) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 221 457.69 Tm (islands, testing whether an island\222s appearance could signal its resource without) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 221 446.49 Tm (explicit markers.) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.831 0.318 0.353 rg 1 0 0 1 211.5 435.29 Tm (\225) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 221 435.29 Tm (Designed and ran a 32-participant study against a colour-coded control group,) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 221 424.09 Tm (then analysed the results.) Tj ET
+BT /F2 9.9 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 405.89 Tm (Guns On Ice) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 534.15 405.89 Tm (2025) Tj ET
+BT /F3 9.2 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 210 394.49 Tm (Unity \267 Solo project \267 itch.io  \226  ) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 334.26 394.49 Tm (Built recoil-based physics and sliding movement) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 383.29 Tm (mechanics, fleshed out into a full arcade game.) Tj ET
+BT /F2 9.9 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 365.09 Tm (Day in the Life of a Carrot Farmer) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 534.15 365.09 Tm (2024) Tj ET
+BT /F3 9.2 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 210 353.69 Tm (Unity \267 Team of three \267 itch.io  \226  ) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 342.95 353.69 Tm (First joint university project: built the player) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 342.49 Tm (movement and camera, the interaction system, and the power-up system.) Tj ET
+BT /F2 9.9 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 324.29 Tm (CapSize) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 511.22 324.29 Tm (Game Jam) Tj ET
+BT /F3 9.2 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 210 312.89 Tm (Board game \267 Team of four  \226  ) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 335.29 312.89 Tm (Systems design and physical hex-tile prototyping,) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 301.69 Tm (shaping the wager/risk mechanics around chance-based dice rolls and event cards.) Tj ET
+BT /F2 9.9 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 283.49 Tm (The Castle 2D) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 524.12 283.49 Tm (College) Tj ET
+BT /F3 9.2 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 210 272.09 Tm (Unity \267 Solo project \267 First finished game  \226  ) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 387.94 272.09 Tm (Branching corridors, sword combat,) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 260.89 Tm (hidden power-ups and boss encounters, told through environmental storytelling with) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 249.69 Tm (no dialogue.) Tj ET
+BT /F2 9.6 Tf 1.05 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 223.49 Tm (TECHNICAL DEMOS) Tj ET
+0.855 0.855 0.855 RG 0.7 w 210 216.99 m 553.28 216.99 l S
+0.831 0.318 0.353 RG 1.5 w 210 216.99 m 240 216.99 l S
+BT /F2 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 204.49 Tm (Black Hole Shader \(Unreal Engine\)  \226  ) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 376.68 204.49 Tm (Real-time gravitational lensing and light) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 193.29 Tm (distortion, built with Blueprint scripting and mathematics.) Tj ET
+BT /F2 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 178.09 Tm (Hole in the Wall \(Unity\)  \226  ) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 325.53 178.09 Tm (A flocking-AI simulation where 2D boid agents steer) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 166.89 Tm (themselves into position to pass through an aperture in an advancing wall.) Tj ET
+BT /F2 9.6 Tf 1.05 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 136.69 Tm (OTHER EXPERIENCE) Tj ET
+0.855 0.855 0.855 RG 0.7 w 210 130.19 m 553.28 130.19 l S
+0.831 0.318 0.353 RG 1.5 w 210 130.19 m 240 130.19 l S
+BT /F2 9.9 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 117.69 Tm (Sous Chef) Tj ET
+BT /F1 8.6 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 513.61 117.69 Tm (Five years) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.831 0.318 0.353 rg 1 0 0 1 211.5 106.29 Tm (\225) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 221 106.29 Tm (Led and worked within a fast-paced professional kitchen.) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.831 0.318 0.353 rg 1 0 0 1 211.5 95.09 Tm (\225) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 221 95.09 Tm (Developed team leadership, composure under pressure, and coordinating people) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 221 83.89 Tm (to tight deadlines \226 all of which carry directly into studio production.) Tj ET
 
 endstream
 endobj
 xref
-0 10
+0 8
 0000000000 65535 f 
 0000000015 00000 n 
 0000000064 00000 n 
-0000000127 00000 n 
-0000000224 00000 n 
-0000000326 00000 n 
-0000000431 00000 n 
-0000000584 00000 n 
-0000000737 00000 n 
-0000009027 00000 n 
+0000000121 00000 n 
+0000000218 00000 n 
+0000000320 00000 n 
+0000000425 00000 n 
+0000000578 00000 n 
 trailer
-<< /Size 10 /Root 1 0 R >>
+<< /Size 8 /Root 1 0 R >>
 startxref
-10877
+12947
 %%EOF
