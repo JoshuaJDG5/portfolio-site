@@ -19,7 +19,7 @@ endobj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 595.276 841.89] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 7 0 R >>
 endobj
 7 0 obj
-<< /Length 14437 >>
+<< /Length 14448 >>
 stream
 0.078 0.078 0.078 rg 0 0 180 841.89 re f
 BT /F2 7.8 Tf 1.15 Tc 0.957 0.451 0.478 rg 1 0 0 1 32 789.89 Tm (CONTACT) Tj ET
@@ -146,9 +146,9 @@ BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 334.26 394.49 Tm (Built recoil-b
 BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 383.29 Tm (mechanics, fleshed out into a full arcade game.) Tj ET
 BT /F2 9.9 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 365.09 Tm (Day in the Life of a Carrot Farmer) Tj ET
 BT /F1 8.6 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 534.15 365.09 Tm (2024) Tj ET
-BT /F3 9.2 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 210 353.69 Tm (Unity \267 Team of three \267 itch.io  \226  ) Tj ET
-BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 342.95 353.69 Tm (First joint university project: built the player) Tj ET
-BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 342.49 Tm (movement and camera, the interaction system, and the power-up system.) Tj ET
+BT /F3 9.2 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 210 353.69 Tm (Unity \267 Team lead, team of three \267 itch.io  \226  ) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 388.46 353.69 Tm (First joint university project: built the) Tj ET
+BT /F1 9.2 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 342.49 Tm (player movement and camera, the interaction system, and the power-up system.) Tj ET
 BT /F2 9.9 Tf 0 Tc 0.102 0.102 0.102 rg 1 0 0 1 210 324.29 Tm (CapSize) Tj ET
 BT /F1 8.6 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 511.22 324.29 Tm (Game Jam) Tj ET
 BT /F3 9.2 Tf 0 Tc 0.42 0.42 0.42 rg 1 0 0 1 210 312.89 Tm (Board game \267 Team of four  \226  ) Tj ET
@@ -195,5 +195,5 @@ xref
 trailer
 << /Size 8 /Root 1 0 R >>
 startxref
-15068
+15079
 %%EOF
